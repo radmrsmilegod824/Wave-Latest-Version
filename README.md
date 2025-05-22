@@ -11,7 +11,7 @@ Getting started with **Wave Executor** is fast and easy:
 ## 📌 What is Wave Executor?  
 🚀 **Wave Executor** is a robust and user-friendly **Roblox script executor**, designed for seamless performance and ease of use. It stays up to date with the latest Roblox updates, making it ideal for gamers, developers, and modders looking to elevate their Roblox experience.
 
-![Preview](/assets/Wave.jpg)
+
 
 ## 📑 Table of Contents  
 - [Introduction](#-introduction)  
